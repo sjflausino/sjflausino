@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## Hi, My name is Sandro Flausino!
 <div align="center">
-  <a href="https://github.com/nathancarrilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathancarrilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancarrilho&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/sjflausino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjflausino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjflausino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
+
